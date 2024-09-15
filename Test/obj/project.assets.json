@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CN8\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\CN8\\TestDeploy\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\CN8\\Test\\Test\\Test.csproj",
+      "projectPath": "D:\\CN8\\TestDeploy\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\CN8\\Test\\Test\\obj\\",
+      "outputPath": "D:\\CN8\\TestDeploy\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
